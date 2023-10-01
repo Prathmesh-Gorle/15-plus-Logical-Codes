@@ -32,5 +32,5 @@ public class L_StrongNumber {
 Number = 145
 145 = 1! + 4! + 5!
 145 = 1 + 24 + 120
-output number  = 145.
+output number  = 145..
 */
