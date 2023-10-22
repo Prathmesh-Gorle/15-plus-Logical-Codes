@@ -7,7 +7,7 @@ public class L_StrongNumber {
         System.out.println (num + " is not a Strong Number");
   }
   // function to calculate factorial
-  static int facto (int num){      //here we make this method make static bcoz this method we use in main method(static to static call possible)
+  static int facto (int num){      //here we make this method  "static" bcoz this method we use in main method(static to static call possible)
      if(num == 0)
         return 1;    
     return num * facto(num-1);
